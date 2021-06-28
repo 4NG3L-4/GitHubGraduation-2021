@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ESISBA_2CPI_PROJECT.iml" filepath="$PROJECT_DIR$/.idea/ESISBA_2CPI_PROJECT.iml" />
+      <module fileurl="file://$USER_HOME$/AndroidStudioProjects/flutter_module/flutter_module.iml" filepath="$USER_HOME$/AndroidStudioProjects/flutter_module/flutter_module.iml" />
+    </modules>
+  </component>
+</project>
